@@ -37,5 +37,5 @@ My name is **Awais Jamil**, and I am an experienced **Flutter developer** with a
 
 ---
 
-*Hire me* for your next BigCommerce project, and let’s build a feature-rich, high-performing eCommerce store together!
+*Hire me* for your next Flutter project, and let’s build a feature-rich, high-performing eCommerce store together!
 > **Awais Jamil** - Experienced Flutter Developer 
