@@ -27,9 +27,18 @@ This is a **Flutter-based** e-commerce mobile application connected with my **Bi
 - **Flutter**: The app is developed on the Flutter platform, ensuring smooth cross-platform performance for both iOS and Android devices.
 - **BigCommerce API**: The app is integrated with BigCommerce via API to provide real-time data synchronization for products, orders, and profiles.
 
+## 🧰 Languages and Tools Used
+
+- **Dart**: Main programming language used for building the Flutter app.
+- **Flutter**: Cross-platform mobile framework for developing the app.
+- **BigCommerce API**: To integrate the store with the app.
+- **REST API**: For handling communication between the app and the BigCommerce backend.
+- **Firebase**: For user authentication and other backend functionalities.
+
 ## 👨‍💻 About Me
 
 My name is **Awais Jamil**, and I am an experienced **Flutter developer** with a strong focus on **e-commerce applications** and **API integrations**. I developed this app to enhance the shopping experience for users and to showcase my skills in **mobile app development** and **BigCommerce integration**.
+
 ## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-awais-a29b28146/)
